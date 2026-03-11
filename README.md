@@ -26,8 +26,3 @@ This project is designed for students, beginners, and non-programmers who want t
 4. Model training
 5. Performance evaluation
 
-## Installation
-Clone the repository:
-
-```bash
-git clone https://github.com/Kethan1308/no-code-ml-model-training.git
